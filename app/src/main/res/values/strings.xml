@@ -7,4 +7,6 @@
     <string name="app4">Make you app material</string>
     <string name="app5">Go ubiquitous</string>
     <string name="app6">Capstone</string>
+    <string name="button_message">This button will launch my</string>
+    <string name="button_message_sub">app!</string>
 </resources>
